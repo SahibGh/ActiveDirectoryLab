@@ -17,219 +17,219 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Project Walkthrough:</h2>
 
 <p align="center">
-Launch the utility DONE: <br/>
+1 Launch the utility DONE: <br/>
 <img src="https://imgur.com/XyPL4NJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk DONE:  <br/>
+2 Select the disk DONE:  <br/>
 <img src="https://imgur.com/Zv0dZUg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes DONE: <br/>
+3 Enter the number of passes DONE: <br/>
 <img src="https://imgur.com/9WobWdC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection DONE:  <br/>
+4 Confirm your selection DONE:  <br/>
 <img src="https://imgur.com/s515LZS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete DONE:  <br/>
+5 Wait for process to complete DONE:  <br/>
 <img src="https://imgur.com/WuihVIM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete DONE:  <br/>
+6 Sanitization complete DONE:  <br/>
 <img src="https://imgur.com/EK0Upv7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+7 Observe the wiped disk DONE:  <br/>
+<img src="https://imgur.com/FmKYxTc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+8 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/MLk6ZGZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+9 Sanitization complete:  <br/>
 <img src="https://imgur.com/cj4uHBx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+10 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/W1iIhkF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete DONE:  <br/>
+11 Sanitization complete DONE:  <br/>
 <img src="https://imgur.com/kHnoQTG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+12 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/KKAC8Pj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk DONE:  <br/>
+14 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/4sgg4pY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+15 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/ME38stp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+16 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/3an9byr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+17 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/d4OS0Ri.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+18 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/b7nye3n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+19 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/2ZzH6r1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+20 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/Ym70WkO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+21 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/KPCkVuC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+22 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/ZPCwWnP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+23 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/AlF98Rd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+24 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/QVmGvx7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+25 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/IM241GF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+26 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/BMtGAUg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+27 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/4KziuVK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+28 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/lCAKzd7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+29 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/cbymAH6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+30 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/giHhIVc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+31 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/hPHxhYP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+32 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/AnDxipj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+33 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/d6o97Xu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+34 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/T3H4Rzf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+35 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/33moBY7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+36 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/HSeDmVE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+37 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/QDP9QlD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+38 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/2ovaJHv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+39 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/Rm3PaoZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+40 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/Sh8pRUR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+41 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/0d5RmEu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+42 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/Bie6SBO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+43 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/oTAi6yr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+44 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/HnxEzab.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+45 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/9PzBVHU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+46 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/myUeawE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+47 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/MXhOaCl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+48 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/uok0tOB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+49 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/i8CqEvI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+50 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/YNnar7t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+51 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/4lNOZkt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+52 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/8nyobjB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+53 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/Ri9MuPq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+54 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/CH3LwPl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk DONE:  <br/>
+55 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/jdNs2Fh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 

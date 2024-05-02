@@ -1,7 +1,7 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project involves a walkthrough on creating a simple Active Directory home lab using Oracle Virtualbox. By configuring and running the lab, you gain an understanding of how the service works, as well as the networking principles behind it. In this project, a server with the necessary networking settings and features will be set up, along with a script to generate 1000 users for demonstration purposes. The result will be tested in a separate environment acting as a client or user trying to login with their new credentials.
 <br />
 
 <h2>Languages and Utilities Used</h2>
@@ -25,20 +25,8 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <img src="https://imgur.com/Zv0dZUg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-3 Enter the number of passes DONE: <br/>
-<img src="https://imgur.com/9WobWdC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-4 Confirm your selection DONE:  <br/>
-<img src="https://imgur.com/s515LZS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 5 Wait for process to complete DONE:  <br/>
 <img src="https://imgur.com/WuihVIM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-6 Sanitization complete DONE:  <br/>
-<img src="https://imgur.com/EK0Upv7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 7 Observe the wiped disk DONE:  <br/>
@@ -50,15 +38,15 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <br />
 <br />
 9 Sanitization complete:  <br/>
-<img src="https://imgur.com/cj4uHBx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/cj4uHBx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 10 Observe the wiped disk DONE:  <br/>
-<img src="https://imgur.com/W1iIhkF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/W1iIhkF.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 11 Sanitization complete DONE:  <br/>
-<img src="https://imgur.com/kHnoQTG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/kHnoQTG.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 12 Observe the wiped disk DONE:  <br/>
@@ -69,16 +57,16 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <img src="https://imgur.com/4sgg4pY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-15 Observe the wiped disk DONE:  <br/>
+15 Installation of Active Directory pt1:  <br/>
 <img src="https://imgur.com/ME38stp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-16 Observe the wiped disk DONE:  <br/>
+16 Installation of Active Directory pt2:  <br/>
 <img src="https://imgur.com/3an9byr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 17 Observe the wiped disk DONE:  <br/>
-<img src="https://imgur.com/d4OS0Ri.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/d4OS0Ri.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 18 Observe the wiped disk DONE:  <br/>
@@ -110,7 +98,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <br />
 <br />
 25 Observe the wiped disk DONE:  <br/>
-<img src="https://imgur.com/IM241GF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/IM241GF.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 26 Observe the wiped disk DONE:  <br/>
@@ -143,10 +131,6 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <br />
 33 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/d6o97Xu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-34 Observe the wiped disk DONE:  <br/>
-<img src="https://imgur.com/T3H4Rzf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 35 Observe the wiped disk DONE:  <br/>
@@ -183,10 +167,6 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <br />
 43 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/oTAi6yr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-44 Observe the wiped disk DONE:  <br/>
-<img src="https://imgur.com/HnxEzab.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 45 Observe the wiped disk DONE:  <br/>

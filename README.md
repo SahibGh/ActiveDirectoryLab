@@ -17,199 +17,191 @@ This project involves a walkthrough on creating a simple Active Directory home l
 <h2>Project Walkthrough:</h2>
 
 <p align="center">
-1 This is the plan that is going to be followed throughout this project : <br/>
+1. This is the plan that is going to be followed throughout this project : <br/>
 <img src="https://imgur.com/XyPL4NJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-2 These are the environments that have been uploaded and going to be used thoughtout this project:  <br/>
+2. Virtual Machines that are going to be used throughout this project have been created and uploaded:  <br/>
 <img src="https://imgur.com/Zv0dZUg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-5 Wait for process to complete DONE:  <br/>
+3. Installation of the Server 2019 vm:  <br/>
 <img src="https://imgur.com/WuihVIM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-7 Observe the wiped disk DONE:  <br/>
+4. Server has started up:  <br/>
 <img src="https://imgur.com/FmKYxTc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-8 Observe the wiped disk DONE:  <br/>
+5. Network Configuration:  <br/>
 <img src="https://imgur.com/MLk6ZGZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-9 Sanitization complete:  <br/>
-<img src="https://imgur.com/cj4uHBx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-10 Observe the wiped disk DONE:  <br/>
+6. This adapter gave us an automatic IP address, therefore it can be used to connect to the internet:  <br/>
 <img src="https://imgur.com/W1iIhkF.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-11 Sanitization complete DONE:  <br/>
-<img src="https://imgur.com/kHnoQTG.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+7. Following the diagram, the internal adapter was given the IP address of 172.16.0.1:  <br/>
+<img src="https://imgur.com/cj4uHBx.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-12 Observe the wiped disk DONE:  <br/>
+8 Renaming this pc to DC (Domain Controller) for simplicity:  <br/>
 <img src="https://imgur.com/KKAC8Pj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-14 Observe the wiped disk DONE:  <br/>
+9 This is the server manager which will be used to install all services and tools used thoughout this project:  <br/>
 <img src="https://imgur.com/4sgg4pY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-15 Installation of Active Directory pt1:  <br/>
+10 Installation of Active Directory pt1:  <br/>
 <img src="https://imgur.com/ME38stp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-16 Installation of Active Directory pt2:  <br/>
+11 Installation of Active Directory pt2:  <br/>
 <img src="https://imgur.com/3an9byr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-17 Observe the wiped disk DONE:  <br/>
+12 Active Directory has been installed:  <br/>
 <img src="https://imgur.com/d4OS0Ri.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-18 Observe the wiped disk DONE:  <br/>
+13 Creation of an organisational unit for admin accounts:  <br/>
 <img src="https://imgur.com/b7nye3n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-19 Observe the wiped disk DONE:  <br/>
+14 Instead of using the dedicated admin account, we are going to create our own admin account using our own credentials:  <br/>
 <img src="https://imgur.com/2ZzH6r1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-20 Observe the wiped disk DONE:  <br/>
+15 An admin account with my name has been created:  <br/>
 <img src="https://imgur.com/Ym70WkO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-21 Observe the wiped disk DONE:  <br/>
+16 Now we sign out of that admin account and log in to our new one with the new credentials:  <br/>
 <img src="https://imgur.com/KPCkVuC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-22 Observe the wiped disk DONE:  <br/>
+17 Installation of Remote access pt1:  <br/>
 <img src="https://imgur.com/ZPCwWnP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-23 Observe the wiped disk DONE:  <br/>
+18 Installation of Remote access pt2:  <br/>
 <img src="https://imgur.com/AlF98Rd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-24 Observe the wiped disk DONE:  <br/>
+19 Select NAT to allow clients to connect to the internet using only one address:  <br/>
 <img src="https://imgur.com/QVmGvx7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-25 Observe the wiped disk DONE:  <br/>
-<img src="https://imgur.com/IM241GF.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-26 Observe the wiped disk DONE:  <br/>
+21 Remote access is now enabled:  <br/>
 <img src="https://imgur.com/BMtGAUg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-27 Observe the wiped disk DONE:  <br/>
+22 Installation of DHCP pt1:  <br/>
 <img src="https://imgur.com/4KziuVK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-28 Observe the wiped disk DONE:  <br/>
+23 Installation of DHCP pt2:  <br/>
 <img src="https://imgur.com/lCAKzd7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-29 Observe the wiped disk DONE:  <br/>
+24 Installation of DHCP is complete, this will allow computers/devices on the network to automatically recive an IP address:  <br/>
 <img src="https://imgur.com/cbymAH6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-30 Observe the wiped disk DONE:  <br/>
+25 Creation of a new scope, this will be the range of IP addresses that are available within DHCP:  <br/>
 <img src="https://imgur.com/giHhIVc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-31 Observe the wiped disk DONE:  <br/>
+26 This is going to be the range:  <br/>
 <img src="https://imgur.com/hPHxhYP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-32 Observe the wiped disk DONE:  <br/>
+27 This is the lease, so the amount of time availble for an IP address before it expires on a used device:  <br/>
 <img src="https://imgur.com/AnDxipj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-33 Observe the wiped disk DONE:  <br/>
+28 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/d6o97Xu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-35 Observe the wiped disk DONE:  <br/>
+29 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/33moBY7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-36 Observe the wiped disk DONE:  <br/>
+30 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/HSeDmVE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-37 Observe the wiped disk DONE:  <br/>
+31 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/QDP9QlD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-38 Observe the wiped disk DONE:  <br/>
+32 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/2ovaJHv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-39 Observe the wiped disk DONE:  <br/>
+33 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/Rm3PaoZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-40 Observe the wiped disk DONE:  <br/>
+34 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/Sh8pRUR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-41 Observe the wiped disk DONE:  <br/>
+35 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/0d5RmEu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-42 Observe the wiped disk DONE:  <br/>
+36 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/Bie6SBO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-43 Observe the wiped disk DONE:  <br/>
+37 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/oTAi6yr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-45 Observe the wiped disk DONE:  <br/>
+38 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/9PzBVHU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-46 Observe the wiped disk DONE:  <br/>
+39 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/myUeawE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-47 Observe the wiped disk DONE:  <br/>
+40 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/MXhOaCl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-48 Observe the wiped disk DONE:  <br/>
+41 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/uok0tOB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-49 Observe the wiped disk DONE:  <br/>
+42 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/i8CqEvI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-50 Observe the wiped disk DONE:  <br/>
+43 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/YNnar7t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-51 Observe the wiped disk DONE:  <br/>
+44 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/4lNOZkt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-52 Observe the wiped disk DONE:  <br/>
+45 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/8nyobjB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-53 Observe the wiped disk DONE:  <br/>
+46 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/Ri9MuPq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-54 Observe the wiped disk DONE:  <br/>
+47 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/CH3LwPl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-55 Observe the wiped disk DONE:  <br/>
+48 Observe the wiped disk DONE:  <br/>
 <img src="https://imgur.com/jdNs2Fh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 

@@ -17,11 +17,11 @@ This project involves a walkthrough on creating a simple Active Directory home l
 <h2>Project Walkthrough:</h2>
 
 <p align="center">
-1 Launch the utility DONE: <br/>
+1 This is the plan that is going to be followed throughout this project : <br/>
 <img src="https://imgur.com/XyPL4NJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-2 Select the disk DONE:  <br/>
+2 These are the environments that have been uploaded and going to be used thoughtout this project:  <br/>
 <img src="https://imgur.com/Zv0dZUg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />

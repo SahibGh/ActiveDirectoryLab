@@ -121,87 +121,75 @@ This project involves a walkthrough on creating a simple Active Directory home l
 <img src="https://imgur.com/AnDxipj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-28 Observe the wiped disk DONE:  <br/>
+28 The IP address should be the same one assigned to the server, since it's going to act as a gateway for clients to forward traffic to the internet:  <br/>
 <img src="https://imgur.com/d6o97Xu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-29 Observe the wiped disk DONE:  <br/>
+29 IPv4 turned green, therefore it worked:  <br/>
 <img src="https://imgur.com/33moBY7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-30 Observe the wiped disk DONE:  <br/>
-<img src="https://imgur.com/HSeDmVE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-31 Observe the wiped disk DONE:  <br/>
+30 This is a txt file that contains 1000 names, this will be used to create users:  <br/>
 <img src="https://imgur.com/QDP9QlD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-32 Observe the wiped disk DONE:  <br/>
-<img src="https://imgur.com/2ovaJHv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-33 Observe the wiped disk DONE:  <br/>
+31 This is the script that is going to be used to generate :  <br/>
 <img src="https://imgur.com/Rm3PaoZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-34 Observe the wiped disk DONE:  <br/>
+32 The script is run and the names start generating:  <br/>
 <img src="https://imgur.com/Sh8pRUR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-35 Observe the wiped disk DONE:  <br/>
+33 In active directory we can see that all the users have been added:  <br/>
 <img src="https://imgur.com/0d5RmEu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-36 Observe the wiped disk DONE:  <br/>
+34 The user we created for our self has also been created:  <br/>
 <img src="https://imgur.com/Bie6SBO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-37 Observe the wiped disk DONE:  <br/>
-<img src="https://imgur.com/oTAi6yr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-38 Observe the wiped disk DONE:  <br/>
+35 Installation of the client (windows 10):  <br/>
 <img src="https://imgur.com/9PzBVHU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-39 Observe the wiped disk DONE:  <br/>
+36 Successfully loaded into the client vm:  <br/>
 <img src="https://imgur.com/myUeawE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-40 Observe the wiped disk DONE:  <br/>
+37 The IP config is all correct, as you can see it shares the same settings as the server:  <br/>
 <img src="https://imgur.com/MXhOaCl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-41 Observe the wiped disk DONE:  <br/>
+38 Renaming this computer to CLIENT1 and making it a member of mydomain.com:  <br/>
 <img src="https://imgur.com/uok0tOB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-42 Observe the wiped disk DONE:  <br/>
+39 Sign in with one of the accounts created to authorise that this computer is joining the domain:  <br/>
 <img src="https://imgur.com/i8CqEvI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-43 Observe the wiped disk DONE:  <br/>
+40 This computer has successfully been added to the domain:  <br/>
 <img src="https://imgur.com/YNnar7t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-44 Observe the wiped disk DONE:  <br/>
+41 In the server you can see under DHCP that the computer is currently leaseing an IP address:  <br/>
 <img src="https://imgur.com/4lNOZkt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-45 Observe the wiped disk DONE:  <br/>
+42 You can also see that its a member of the domain, therefore we can use any of the accounts we created to log in to that computer:  <br/>
 <img src="https://imgur.com/8nyobjB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-46 Observe the wiped disk DONE:  <br/>
+43 Sign in with my user account:  <br/>
 <img src="https://imgur.com/Ri9MuPq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-47 Observe the wiped disk DONE:  <br/>
+44 Desktop of client/user computer:  <br/>
 <img src="https://imgur.com/CH3LwPl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-48 Observe the wiped disk DONE:  <br/>
+45 Successfully logged in and part of the domain:  <br/>
 <img src="https://imgur.com/jdNs2Fh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
